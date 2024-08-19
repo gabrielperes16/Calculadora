@@ -1,1 +1,2 @@
-this is a mini-project in python and Tkinter.
+this is a mini-project in python and Tkinter
+
